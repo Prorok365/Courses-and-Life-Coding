@@ -1,0 +1,5 @@
+Apple 4.5 20
+Orange 6.2 30
+Pineapple 10.0 10
+Mango 7.5 5
+Banana 3.8 35
